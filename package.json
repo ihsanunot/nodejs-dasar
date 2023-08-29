@@ -12,9 +12,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "event": "^1.0.0",
+    "events": "^3.3.0",
     "moment": "^2.29.4"
   },
   "devDependencies": {
+    "@types/events": "^3.0.0",
+    "@types/node": "^20.5.7",
     "lodash": "^4.17.21"
   }
 }
